@@ -1,3 +1,3 @@
 # Hex Color Generator
 
-<img src='./screenshot'>
+<img src='./screenshot.jpg'>
